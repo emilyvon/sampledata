@@ -1,4 +1,5 @@
 {
+	{
 	“notification1”:{
 		“users”: [
 		{“name”: “Emily Fung”,
@@ -11,8 +12,10 @@
 		“location”: “Furio Sydney”,
 		“arriveTime”: “Today 02:15PM”,
 		“status”: false
+	}
 	},
 
+	{
 	“notification2”:{
 		“users”:[
 		{“name”: “Scott Rolinski”,
@@ -35,8 +38,10 @@
 		“location”: “Furio Sydney”,
 		“arrivedTime”: “Today 10:05AM”,
 		“status”: false
+	}
 	},
 
+	{
 	“notification3”:{
 		“users”: [
 		{“name”: “Kelly Rolinski”,
@@ -49,6 +54,7 @@
 		“location”: “Furio Adelaide”,
 		“arrivedTime”: “Tuesday 01:45PM”,
 		“status”: false
+	}
 	}
 }
 
