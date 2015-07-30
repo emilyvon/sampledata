@@ -2,7 +2,8 @@
 	{
 		"notification1":{
 			"users": [
-				{"name": "Emily Fung",
+				{
+				"name": "Emily Fung",
 				 "phone": "0411222333",
 				 "email": "emily@domain.com",
 				 "image": "http://static.tumblr.com/hanlmir/FHZmcxg5k/space_invaders.jpg"
@@ -18,17 +19,20 @@
 	{
 		"notification2":{
 			"users":[
-				{"name": "Scott Rolinski",
+				{
+				"name": "Scott Rolinski",
 				 "phone": "0422333556",
 				 "email": "scott@domain.com",
 				 "image": "http://static.tumblr.com/hanlmir/FHZmcxg5k/space_invaders.jpg"
 				},
-				{"name": "Victoria Rolinski",
+				{
+				"name": "Victoria Rolinski",
 				 "phone": "0413513111",
 				 "email": "vic@domain.com",
 				 "image": "http://static.tumblr.com/hanlmir/FHZmcxg5k/space_invaders.jpg"
 				},
-				{"name": "Bernie Rolinski",
+				{
+				"name": "Bernie Rolinski",
 				 "phone": "0411111444",
 				 "email": "bernie@domain.com",
 				 "image": "http://static.tumblr.com/hanlmir/FHZmcxg5k/space_invaders.jpg"
@@ -44,7 +48,8 @@
 	{
 		"notification3":{
 			"users": [
-				{"name": "Kelly Rolinski",
+				{
+				"name": "Kelly Rolinski",
 				 "phone": "0466225778",
 				 "email": "kel@domain.com",
 				 "image": "http://static.tumblr.com/hanlmir/FHZmcxg5k/space_invaders.jpg"
@@ -53,6 +58,46 @@
 			"id": 003,
 			"location": "Furio Adelaide",
 			"arrivedTime": "Tuesday 01:45PM",
+			"status": false
+		}
+	},
+	
+	{
+		"notification4":{
+			"users": [
+				{
+				"name": "Diesel Rolinski",
+				 "phone": "0466225778",
+				 "email": "diesel@domain.com",
+				 "image": "http://media.tumblr.com/fcf642cfa0251ef5237dcdfeee778a9b/tumblr_inline_mvx760DfDR1ref35d.jpg"
+				},
+				{
+				"name": "Jessica Wang",
+				"phone": "0413134666",
+				"email":"jessica@domain.com",
+				"image": "https://teepoo.files.wordpress.com/2012/02/infinitygene.jpg"
+				}
+			],
+			"id": 004,
+			"location": "Furio Adelaide",
+			"arrivedTime": "Tuesday 11:00AM",
+			"status": false
+		}
+	},
+	
+	{
+		"notification5":{
+			"users": [
+				{
+				"name": "Daisy Rolinski",
+				 "phone": "0466225778",
+				 "email": "daisy@domain.com",
+				 "image": "https://teepoo.files.wordpress.com/2012/02/infinitygene.jpg"
+				}
+			],
+			"id": 004,
+			"location": "Furio Adelaide",
+			"arrivedTime": "Wednesday 01:45PM",
 			"status": false
 		}
 	}
